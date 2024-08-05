@@ -27,3 +27,6 @@
   - Video/Demo
 - ## Additional CTAs Section
   - Secondary Call-to-Action
+- ## Pricing Section
+    - Pricing Plans
+    - Comparison Table
