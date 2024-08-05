@@ -32,3 +32,5 @@
   - Comparison Table
 - ## FAQs Section
   - Frequently Asked Questions
+- ## About Us
+    - Company Information
