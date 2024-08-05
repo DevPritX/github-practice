@@ -11,3 +11,4 @@
         - About
         - Careers
         - Contact Us
+ - Hero Section
