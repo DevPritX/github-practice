@@ -2,13 +2,16 @@
 
 # Landing Page
 
- - Header Section
-    - Logo
-    - Navigation Menu
-        - Home
-        - Products
-        - Services
-        - About
-        - Careers
-        - Contact Us
- - Hero Section
+- ## Header Section
+  - Logo
+  - Navigation Menu
+    - Home
+    - Products
+    - Services
+    - About
+    - Careers
+    - Contact Us
+- ## Hero Section
+  - Headline
+  - Subheadline
+  - call-to-action (CTA)
