@@ -33,4 +33,8 @@
 - ## FAQs Section
   - Frequently Asked Questions
 - ## About Us
-    - Company Information
+  - Company Information
+- ## Footer
+  - Contact Information
+  - Social Media Links
+  - Additional Links
