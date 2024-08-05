@@ -22,3 +22,6 @@
   - Testimonials
   - Case Studies
   - Logos of Trusted Clients/Partners
+- ## Detailed Explanation Section
+  - How It Works
+  - Video/Demo
