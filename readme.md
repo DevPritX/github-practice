@@ -15,3 +15,7 @@
   - Headline
   - Subheadline
   - call-to-action (CTA)
+- ## Features/Benefits Section
+  - Feature List
+  - Icons/Images
+
