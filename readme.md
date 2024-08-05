@@ -28,5 +28,7 @@
 - ## Additional CTAs Section
   - Secondary Call-to-Action
 - ## Pricing Section
-    - Pricing Plans
-    - Comparison Table
+  - Pricing Plans
+  - Comparison Table
+- ## FAQs Section
+  - Frequently Asked Questions
