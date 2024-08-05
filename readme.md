@@ -18,4 +18,7 @@
 - ## Features/Benefits Section
   - Feature List
   - Icons/Images
-
+- ## Social Proof Section
+  - Testimonials
+  - Case Studies
+  - Logos of Trusted Clients/Partners
